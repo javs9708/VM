@@ -1,6 +1,17 @@
-html,
-btn{
+.titulo1{
+    font-size: 50px;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    animation-name: title1;
+    animation-duration: 5s;
+    opacity: 0;
+    animation-fill-mode: forwards;
+}
 
+@keyframes title1{
+    0%{opacity: 0;}
+    100%{opacity: 1;}
 }
 
 .buttonAf{
