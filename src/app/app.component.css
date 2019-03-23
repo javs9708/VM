@@ -1,0 +1,50 @@
+html,
+btn{
+
+}
+
+.buttonAf{
+  background-image:url('/../assets/files/af.png');
+  background-color: white;
+  width: 220px;
+  height: 65px;
+  background-repeat:no-repeat;
+  background-position:center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+
+}
+
+.buttonAv{
+  background-image:url('/../assets/files/av.png');
+  background-color: white;
+  width: 220px;
+  height: 65px;
+  background-repeat:no-repeat;
+  background-position:center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+
+}
+
+.buttonKlm{
+  background-image:url('/../assets/files/klm.png');
+  background-color: white;
+  width: 220px;
+  height: 65px;
+  background-repeat:no-repeat;
+  background-position:center;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+
+.modal{
+  padding: 30px;
+}
+
+.items{
+  margin-top: 40px;
+}
